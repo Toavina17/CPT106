@@ -1,0 +1,2 @@
+BREK001, Omlet, 2.3
+BURG001, Chesseburger, 10.67

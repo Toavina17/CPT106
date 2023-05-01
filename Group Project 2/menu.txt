@@ -1,0 +1,5 @@
+brk001,omelet,3.76
+sld001,salad with shrimps,14.67
+SLD002,Chicken salad,12.35
+sld003,salad again,23
+PIZ001,Pizza margarita,17.99
